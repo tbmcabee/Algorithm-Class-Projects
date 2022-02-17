@@ -20,11 +20,12 @@ public class Assign4TallonMcAbee
 
     public int[] mergeSort(int[] a1, int[] a2)
     {
-        int[] test = new int[100];
+        
+    }
 
-
-
-        return test; 
+    public int[] generalSort(int[] a1)
+    {
+        
     }
 
     public static void writeFile(String fileName) throws IOException
