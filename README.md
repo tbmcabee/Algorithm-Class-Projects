@@ -11,7 +11,7 @@ Then output the DFS and BFS traversal results.
 
 File format example for a directed graph with 5 vertices (the first integer is the number of vertices, then the matrix):
 
-5
+5\n 
 0 1 1 0 1
 0 0 1 0 1
 0 0 0 1 0
